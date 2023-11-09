@@ -16,9 +16,9 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ## Experiment:
 
-![image](https://github.com/laakshit-D/Muttiple-capacity-with-infinite-capacity/assets/119559976/da8898d2-6518-4014-88fc-09b0f1ed6980)
+<img src="https://github.com/laakshit-D/Muttiple-capacity-with-infinite-capacity/assets/119559976/da8898d2-6518-4014-88fc-09b0f1ed6980" width=700 height=450>
 
-![image](https://github.com/laakshit-D/Muttiple-capacity-with-infinite-capacity/assets/119559976/be04ba7e-9722-451a-b8fd-f663ed1c9f8e)
+<img src="https://github.com/laakshit-D/Muttiple-capacity-with-infinite-capacity/assets/119559976/be04ba7e-9722-451a-b8fd-f663ed1c9f8e" width=700 height=450>
 
 ## Program
 ```
@@ -60,7 +60,7 @@ print("--------------------------------------------------------------")
 ```
 ## Output :
 
-![image](https://github.com/laakshit-D/Muttiple-capacity-with-infinite-capacity/assets/119559976/88f1c940-c2da-427c-a6e7-f9058228532f)
+<img src="https://github.com/laakshit-D/Muttiple-capacity-with-infinite-capacity/assets/119559976/88f1c940-c2da-427c-a6e7-f9058228532f" width=500 height=250>
 
 ## Result : 
 Thus the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.
